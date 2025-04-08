@@ -8,13 +8,17 @@ package javaapplication4;
  *
  * @author Jhonder
  */
+import java.util.Scanner;
 public class JavaApplication4 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Scanner lector = new Scanner(System.in);
+        
+        
     }
     
 }
